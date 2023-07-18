@@ -29,7 +29,10 @@ Cleanliness: Satisfaction level of Cleanliness
 Departure Delay in Minutes: Minutes delayed when departure
 Arrival Delay in Minutes: Minutes delayed when Arrival
 Satisfaction: Airline satisfaction level (Satisfaction, neutral, or dissatisfaction)
-Project Plan
+
+
+
+# Project Plan
 To analyze the factors driving passenger satisfaction and create a predictive model, I will follow these steps:
 
 Data Exploration and Cleaning:
